@@ -1,13 +1,24 @@
-User Logs In: The user accesses the app/website and logs in using credentials or social login.
+Idea 5: Home Maintenance Request System
 
-User Browses Items: After logging in, the user searches and filters items, viewing descriptions, ratings, and reviews.
 
-User Adds to Cart: The user adds desired items to their cart and can either continue shopping or proceed to checkout.
+User Scenario 1: Homeowner submits a maintenance request, and the system categorizes the request and assigns it to the appropriate service provider.
 
-User Checks Out: The user reviews their cart, adjusts items if needed, selects a payment method, and chooses to check out as a guest or logged-in user.
+Microservices: Homeowner, Request, ServiceProvider
 
-User Receives Confirmation: After purchase, the user receives an email confirmation and can track their order status from their profile.
 
-User Accesses Order History: The user can view order history, track current orders, and leave feedback at any time from their profile.
 
-last step
+User Scenario 2: Service provider receives the request and can accept or decline based on their availability.
+
+Microservices: ServiceProvider, Notification, Request
+
+
+
+User Scenario 3: Homeowner pays for the service, and if the service is unsatisfactory, the system allows for a partial refund.
+
+Microservices: Homeowner, Payment, Request
+
+
+
+External Service: Use a payment gateway API for processing payments.
+
+Choreography: The Request microservice orchestrates the ServiceProvider and Notification services.
