@@ -9,3 +9,5 @@ User Checks Out: The user reviews their cart, adjusts items if needed, selects a
 User Receives Confirmation: After purchase, the user receives an email confirmation and can track their order status from their profile.
 
 User Accesses Order History: The user can view order history, track current orders, and leave feedback at any time from their profile.
+
+last step
