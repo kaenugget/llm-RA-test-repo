@@ -22,3 +22,19 @@ Microservices: Homeowner, Payment, Request
 External Service: Use a payment gateway API for processing payments.
 
 Choreography: The Request microservice orchestrates the ServiceProvider and Notification services.
+
+
+-----test chrac----
+`1234567890-=
+~!@#$%^&*()_+
+qwertyuiop[]\
+QWERTYUIOP{}|
+asdfghjkl;'
+ASDFGHJKL:"
+zxcvbnm,./
+ZXCVBNM<>?
+¡™£¢∞§¶•ªº–≠
+œ∑´®†¥¨ˆøπ“‘«
+åß∂ƒ©˙∆˚¬…æ
+Ω≈ç√∫˜µ≤≥÷
+-----test chrac----
