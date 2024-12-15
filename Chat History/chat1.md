@@ -1,3 +1,1 @@
-# Welcome to your first chat
-
-This is your first chat file.
+VXNlcjogdGVzdApCb3Q6IEl0IHNlZW1zIGxpa2UgeW91IGVudGVyZWQgInRlc3QuIiBJZiB5b3UgaGF2ZSBhIHNwZWNpZmljIGNvZGUgc25pcHBldCB5b3UnZCBsaWtlIG1lIHRvIGFuYWx5emUgb3IgZGVidWcsIHBsZWFzZSBwcm92aWRlIGl0LCBhbmQgSSdsbCBiZSBoYXBweSB0byBoZWxwIQ==
